@@ -19,9 +19,9 @@ AluCine é um projeto que busca organizar informações sobre filmes e séries, 
 * Plataformas onde assistir (Netflix, Amazon Prime Video, etc.)
 
 ## Como ela funciona?
-*Digite e pesquise: Você digita o nome do filme ou série que você quer encontrar na caixinha de pesquisa.
-*Mágica acontece: A aplicação vasculha um banco de dados gigante (que está no arquivo dados.js) e procura por tudo que tenha a ver com o que você digitou.
-*Resultados na tela: Se a aplicação encontrar algo, ela mostra pra você um card com o nome do filme ou da série, além de uma breve descrição e um link para saber onde assistir. Se não encontrar nada, ela te avisa que não teve sorte dessa vez.
+* Digite e pesquise: Você digita o nome do filme ou série que você quer encontrar na caixinha de pesquisa.
+* Mágica acontece: A aplicação vasculha um banco de dados gigante (que está no arquivo dados.js) e procura por tudo que tenha a ver com o que você digitou.
+* Resultados na tela: Se a aplicação encontrar algo, ela mostra pra você um card com o nome do filme ou da série, além de uma breve descrição e um link para saber onde assistir. Se não encontrar nada, ela te avisa que não teve sorte dessa vez.
 
 ## Observações:
 
