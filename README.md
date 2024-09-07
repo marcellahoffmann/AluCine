@@ -18,16 +18,16 @@ AluCine é um projeto que busca organizar informações sobre filmes e séries, 
 * Avaliação (pode ser numérica, por estrelas ou outra métrica)
 * Plataformas onde assistir (Netflix, Amazon Prime Video, etc.)
 
-* Como ela funciona?
-Digite e pesquise: Você digita o nome do filme ou série que você quer encontrar na caixinha de pesquisa.
-Mágica acontece: A aplicação vasculha um banco de dados gigante (que está no arquivo dados.js) e procura por tudo que tenha a ver com o que você digitou.
-Resultados na tela: Se a aplicação encontrar algo, ela mostra pra você um card com o nome do filme ou da série, além de uma breve descrição e um link para saber onde assistir. Se não encontrar nada, ela te avisa que não teve sorte dessa vez.
+## Como ela funciona?
+*Digite e pesquise: Você digita o nome do filme ou série que você quer encontrar na caixinha de pesquisa.
+*Mágica acontece: A aplicação vasculha um banco de dados gigante (que está no arquivo dados.js) e procura por tudo que tenha a ver com o que você digitou.
+*Resultados na tela: Se a aplicação encontrar algo, ela mostra pra você um card com o nome do filme ou da série, além de uma breve descrição e um link para saber onde assistir. Se não encontrar nada, ela te avisa que não teve sorte dessa vez.
 
 ## Observações:
 
-Dados: Os dados dos filmes e séries estão no arquivo dados.js. Você pode adicionar mais dados se quiser.
-Design: O design da página está no arquivo style.css. Se você quiser mudar as cores, a fonte ou a foto, é só editar esse arquivo.
-Funcionalidades: A lógica da pesquisa está no arquivo app.js. Se você quiser adicionar mais funcionalidades, é só editar esse arquivo.
+*Dados: Os dados dos filmes e séries estão no arquivo dados.js. Você pode adicionar mais dados se quiser.
+*Design: O design da página está no arquivo style.css. Se você quiser mudar as cores, a fonte ou a foto, é só editar esse arquivo.
+*Funcionalidades: A lógica da pesquisa está no arquivo app.js. Se você quiser adicionar mais funcionalidades, é só editar esse arquivo.
 
 ## Como Contribuir
 Contribuições são bem-vindas! Para contribuir com este projeto, siga estes passos:
