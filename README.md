@@ -25,9 +25,9 @@ AluCine é um projeto que busca organizar informações sobre filmes e séries, 
 
 ## Observações:
 
-*Dados: Os dados dos filmes e séries estão no arquivo dados.js. Você pode adicionar mais dados se quiser.
-*Design: O design da página está no arquivo style.css. Se você quiser mudar as cores, a fonte ou a foto, é só editar esse arquivo.
-*Funcionalidades: A lógica da pesquisa está no arquivo app.js. Se você quiser adicionar mais funcionalidades, é só editar esse arquivo.
+* Dados: Os dados dos filmes e séries estão no arquivo dados.js. Você pode adicionar mais dados se quiser.
+* Design: O design da página está no arquivo style.css. Se você quiser mudar as cores, a fonte ou a foto, é só editar esse arquivo.
+* Funcionalidades: A lógica da pesquisa está no arquivo app.js. Se você quiser adicionar mais funcionalidades, é só editar esse arquivo.
 
 ## Como Contribuir
 Contribuições são bem-vindas! Para contribuir com este projeto, siga estes passos:
