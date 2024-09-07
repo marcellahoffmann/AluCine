@@ -38,9 +38,9 @@ Contribuições são bem-vindas! Para contribuir com este projeto, siga estes pa
 5. **Envie um pull request** para este repositório.
 
 ## Tecnologias Utilizadas
-HTML: A estrutura básica da página, como os títulos, botões e onde os resultados vão aparecer.
-CSS: Deixa tudo bonitinho e organizado, com cores e fontes legais.
-JavaScript: A parte mais inteligente da aplicação! É o JavaScript que faz a pesquisa, compara os dados e mostra os resultados na tela.
+* HTML: A estrutura básica da página, como os títulos, botões e onde os resultados vão aparecer.
+* CSS: Deixa tudo bonitinho e organizado, com cores e fontes legais.
+* JavaScript: A parte mais inteligente da aplicação! É o JavaScript que faz a pesquisa, compara os dados e mostra os resultados na tela.
 
 ## Autores
 * **Marcella Hoffmann** - Desenvolvedora principal
